@@ -1,0 +1,15 @@
+header {
+    background-color: lavender;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container1 {
+    background-color: pink;
+}
